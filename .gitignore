@@ -2,3 +2,5 @@ data
 __pycache__
 .idea
 pls.json
+TFL_validate/weights
+TFL_validate/model.h5
